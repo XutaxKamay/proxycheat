@@ -1,0 +1,1 @@
+make clean;make generate_proto;make -j 8;

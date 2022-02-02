@@ -1,0 +1,10 @@
+"ze_underground_escape_p"
+{
+	"material"	"overviews/ze_underground_escape_p_radar"	// texture file
+	"pos_x"		"-6743"				// X coordinate
+	"pos_y"		"7197"				// Y coordinate
+	"scale"		"11.0" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"1.3"				// optimal zoom factor if map is shown in full size
+}
+//setpos 297.069855 1564.561035 4153.137695;setang 89.000000 125.968185 0.000000

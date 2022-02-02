@@ -1,0 +1,7 @@
+"ze_stargate_escape_v8_p2"
+{
+	"material"	"overviews/ze_stargate_escape_v8_p2_radar"	// texture file
+	"pos_x"		"-11350"	// upper left world coordinate
+	"pos_y"		"6450"
+	"scale"		"20" 
+}

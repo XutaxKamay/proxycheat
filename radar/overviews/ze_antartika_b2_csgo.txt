@@ -1,0 +1,9 @@
+"ze_antartika_b2_csgo"
+{
+	"material"	"overviews/ze_antartika_b2_csgo_radar"	// texture file
+	"pos_x"		"-3663"	// 
+	"pos_y"		"14307"	// scale 16.00, pos_x -3663, pos_y 14307
+	"scale"		"16.0" 
+	"rotate"	"0"
+	"zoom"		"2.0"	
+}

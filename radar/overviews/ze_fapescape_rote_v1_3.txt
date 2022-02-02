@@ -1,0 +1,9 @@
+"ze_fapescape_rote_v1_3"
+{
+ "material" "overviews/ze_fapescape_rote_v1_3"
+ "pos_x"        "-16294"     //MAP X COORDS
+ "pos_y"        "16224"    //MAP Y COORDS
+ "scale"        "32.00"        //MAP SCALE
+}
+
+

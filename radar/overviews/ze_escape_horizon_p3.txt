@@ -1,0 +1,11 @@
+"ze_escape_horizon_p3"
+{
+	"material"	"overviews/ze_escape_horizon_p3_radar"	// texture file
+	"pos_x"		"-15262"	// upper left world coordinate
+	"pos_y"		"10423"
+	"scale"		"22.0" 
+	"rotate"	"0"
+	"zoom"		"1.3"	
+}
+//setpos -1181.539551 -841.094299 20030.931641;setang 0.000000 90.000000 0.000000
+//setpos -1181.539551 -841.094299 19917.667969;setang 0.000000 90.000000 0.000000

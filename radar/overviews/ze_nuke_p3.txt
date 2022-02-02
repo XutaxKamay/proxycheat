@@ -1,0 +1,10 @@
+//overview:scale 8.00, pos_x -4628, pos_y 1869
+
+"ze_nuke_p"
+{
+	"material"	"overviews/ze_nuke_p"	// texture file
+	"pos_x"		"-4628"	// upper left world coordinate
+	"pos_y"		"1869"
+	"scale"		"8" 
+
+}

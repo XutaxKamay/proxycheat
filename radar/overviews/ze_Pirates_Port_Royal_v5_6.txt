@@ -1,0 +1,7 @@
+"ze_Pirates_Port_Royal_v5_6"
+{
+	"material"	"overviews/ze_Pirates_Port_Royal_v5_6_radar"	// texture file
+	"pos_x"		"-15477"	// upper left world coordinate
+	"pos_y"		"16432"
+	"scale"		"31" 
+}

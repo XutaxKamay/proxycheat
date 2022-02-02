@@ -1,0 +1,7 @@
+*.o*
+*.pb.cc
+*.pb.h
+*.out
+*.gch
+csgo_capture.so
+csgo_dump_datatables.so

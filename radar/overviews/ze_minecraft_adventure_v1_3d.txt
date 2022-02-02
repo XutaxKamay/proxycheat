@@ -1,0 +1,7 @@
+"ze_minecraft_adventure_v1_3d"
+{
+	"material"	"overviews/ze_minecraft_adventure_v1_3d"
+	"pos_x"		"-14428"
+	"pos_y"		"13810"
+	"scale"		"27" 
+}

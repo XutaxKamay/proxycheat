@@ -1,0 +1,11 @@
+"ze_lotr_helms_deep_v5_p6"
+{
+	"material"	"overviews/ze_lotr_helms_deep_v5_p6_radar"	// texture file
+	"pos_x"		"-13031"				// X coordinate
+	"pos_y"		"6615"				// Y coordinate
+	"scale"		"18.0" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"3"				// optimal zoom factor if map is shown in full size
+}
+
+//setpos 773.350708 49.778614 4731.149902;setang 89.000000 58.378708 0.000000

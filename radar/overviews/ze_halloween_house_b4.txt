@@ -1,0 +1,11 @@
+"ze_halloween_house_b4"
+{
+	"material"	"overviews/ze_halloween_house_b4_radar"	// texture file
+	"pos_x"		"-9102"				// X coordinate
+	"pos_y"		"8617"				// Y coordinate
+	"scale"		"13.0" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"1.3"				// optimal zoom factor if map is shown in full size
+}
+// Overview: scale 13.00, pos_x -9102, pos_y 8617
+//setpos -782.414856 1960.408081 -2937.898926;setang -37.282322 88.399475 0.000000

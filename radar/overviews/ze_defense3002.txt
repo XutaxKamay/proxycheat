@@ -1,0 +1,12 @@
+"ze_defense3002"
+{
+	"material"	"overviews/ze_defense3002_radar"	// texture file
+	"pos_x"		"-9174"				// X coordinate
+	"pos_y"		"9839"				// Y coordinate
+	"scale"		"19.0" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"1.3"				// optimal zoom factor if map is shown in full size
+}
+
+//Overview: scale 24.00, pos_x -8851, pos_y 9421
+//setpos 2986.402832 111.063217 43153.585938;setang -1.848000 116.449509 0.000000

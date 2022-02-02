@@ -1,0 +1,10 @@
+
+//Overview: scale 8.00, pos_x 1059, pos_y -1569
+
+"ze_PD2_Crime_Art_v2"
+{
+	"material" 	"overviews/ze_PD2_Crime_Art_v2"
+	"pos_x" 	"1059"
+	"pos_y" 	"-1569"
+	"scale" 	"8"
+}

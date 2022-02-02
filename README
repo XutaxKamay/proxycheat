@@ -1,0 +1,8 @@
+It's probably not usable as it is as it may be outdated, so use only for reference.
+It contains maybe also a lot of copied code because I was too lazy to do from scratch, though as you can see, it is very similar to demoinfo from Valve's project.
+It has also very bad practices and needs a lot of refactoring to be good code.
+Though if you used the good technique of copy pastas, it should work fairly well as shown in the youtube video:
+
+https://www.youtube.com/watch?v=D9g14WiFTDM
+
+Credits to Sarkastic for has setup the project and motivated me to do in the past.

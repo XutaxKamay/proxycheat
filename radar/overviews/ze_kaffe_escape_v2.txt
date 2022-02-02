@@ -1,0 +1,10 @@
+"ze_kaffe_escape"
+{
+	"material"	"overviews/ze_kaffe_escape"
+	"pos_x"		"-3332"
+	"pos_y"		"9052"
+	"scale"		"12.0" 
+}
+
+// Overview: scale 12.00, pos_x -3332, pos_y 9052
+
